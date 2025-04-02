@@ -1,6 +1,6 @@
-@NurseCounseling.Api_HostAddress = http://localhost:5078
+@NurseCounseling.API_HostAddress = http://localhost:5103
 
-GET {{NurseCounseling.Api_HostAddress}}/weatherforecast/
+GET {{NurseCounseling.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
